@@ -17,7 +17,7 @@
 # ---------------------------------
 
 # Project information .........................................
-site_name: "Learns Fine Tuning"
+site_name: "AI & Fine Tuning"
 site_url: https://nitya.github.io/learns-fine-tuning
 site_author: Nitya Narasimhan
 site_description: >-
@@ -37,7 +37,7 @@ theme:
   font:
     code: Roboto Mono  #Monospaced
     text: Roboto       #Regular
-  logo: img/nitya.svg
+  logo: img/logo.png
   language: en
 
   # Theme Modes ...............................................
@@ -50,7 +50,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: blue grey
+      primary: black
       accent: pink
       toggle:
         icon: material/brightness-2
@@ -58,8 +58,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
-      accent: amber
+      primary: amber
+      accent: pink
       toggle:
         icon: material/brightness-4
         name: Switch to system preference 
